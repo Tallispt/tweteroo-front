@@ -1,7 +1,8 @@
 # Tweteroo Frontend
 
-What about seeing the API in action?
-Clone the repo, use `npm i` and run the html!
+What about seeing the API in action?  
+  
+Clone the repo, use `npm i` and run the html!  
 Remember to update the *port number* on scripts.js
 
 ## Screenshots
